@@ -2,7 +2,8 @@
 name: 📝 Theme request
 description: Request a new theme be added to the project
 title: "[Theme request] "
-labels: ["is:theme", "needs-triage"]
+type: request
+labels: ["themes", "needs-triage"]
 projects: ["doomemacs/2"]
 body:
 - type: markdown
